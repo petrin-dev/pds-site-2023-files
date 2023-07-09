@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Petrin Development Services</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://petrin.dev/feed/" rel="self" type="application/rss+xml" />
+	<link>https://petrin.dev/</link>
 	<description>Brilliantly Simple Marketing for your Brand</description>
 	<lastBuildDate>Sun, 09 Jul 2023 14:45:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/petdev-icon-150x150.png</url>
+	<url>https://petrin.dev/wp-content/uploads/2023/07/petdev-icon-150x150.png</url>
 	<title>Petrin Development Services</title>
-	<link>/</link>
+	<link>https://petrin.dev/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
