@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Petrin Development Services</title>
-	<atom:link href="https://petrin.dev/feed/" rel="self" type="application/rss+xml" />
-	<link>https://petrin.dev/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Brilliantly Simple Marketing for your Brand</description>
 	<lastBuildDate>Sat, 22 Jul 2023 23:32:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.3-RC1</generator>
 
 <image>
-	<url>https://petrin.dev/wp-content/uploads/2023/07/petdev-icon-150x150.png</url>
+	<url>/wp-content/uploads/2023/07/petdev-icon-150x150.png</url>
 	<title>Petrin Development Services</title>
-	<link>https://petrin.dev/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Good Value in Web Hosting</title>
-		<link>https://petrin.dev/the-value-of-web-hosting/</link>
+		<link>/the-value-of-web-hosting/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 22:20:18 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[web hosting]]></category>
 		<category><![CDATA[wordpress]]></category>
 		<category><![CDATA[wpengine]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=740</guid>
+		<guid isPermaLink="false">/?p=740</guid>
 
 					<description><![CDATA[<p>Finding the Perfect Fit: Very Cheap Hosting Services for CMSes like WordPress When setting up a website, one of the first decisions you&#8217;ll make is choosing a web hosting service. With the plethora of options available, it&#8217;s no surprise that very cheap hosting services tailored for popular Content Management Systems (CMSes) like WordPress have gained [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/the-value-of-web-hosting/">Good Value in Web Hosting</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/the-value-of-web-hosting/">Good Value in Web Hosting</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
@@ -104,7 +104,7 @@
 
 <p>When venturing into the world of web hosting, careful consideration of your specific needs and requirements is essential. While very cheap hosting services may seem enticing, it&#8217;s crucial to weigh the potential drawbacks and hidden costs. Investing in managed hosting from a trusted agency can provide long-term benefits, allowing you to focus on creating exceptional content and user experiences without the burden of technical complexities. Remember, your website is the digital face of your business, and choosing the right hosting solution plays a pivotal role in its success.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/the-value-of-web-hosting/">Good Value in Web Hosting</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/the-value-of-web-hosting/">Good Value in Web Hosting</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -112,17 +112,17 @@
 			</item>
 		<item>
 		<title>Gutenberg is Inevitable</title>
-		<link>https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/</link>
+		<link>/wordpress-gutenberg-block-editor-is-evitable/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 21:58:43 +0000</pubDate>
 				<category><![CDATA[Website Optimization]]></category>
 		<category><![CDATA[gutenberg]]></category>
 		<category><![CDATA[wordpress]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=579</guid>
+		<guid isPermaLink="false">/?p=579</guid>
 
 					<description><![CDATA[<p>The Gutenberg editor isn't as revolutionary as the Printing Press, yet.</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/">Gutenberg is Inevitable</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/wordpress-gutenberg-block-editor-is-evitable/">Gutenberg is Inevitable</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-container-2 wp-block-group-is-layout-constrained">
@@ -134,7 +134,7 @@
 
 
 
-<nav class="wp-block-table-of-contents has-heading-4-font-size"><ol><li><a class="wp-block-table-of-contents__entry" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/#a-mature-and-unified-full-site-editing-experience">A Mature and Unified Full Site Editing Experience</a></li><li><a class="wp-block-table-of-contents__entry" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/#gutenberg-core-features-and-instant-updates">Gutenberg Core Features and Instant Updates</a></li><li><a class="wp-block-table-of-contents__entry" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/#block-patterns-and-synced-patterns-blocks-for-enhanced-efficiency">Block Patterns and Synced Patterns Blocks for Enhanced Efficiency</a></li><li><a class="wp-block-table-of-contents__entry" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/#developer-friendly-environment">Developer-Friendly Environment</a></li><li><a class="wp-block-table-of-contents__entry" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/#flexibility-and-cost-effectiveness">Flexibility and Cost-Effectiveness</a></li></ol></nav>
+<nav class="wp-block-table-of-contents has-heading-4-font-size"><ol><li><a class="wp-block-table-of-contents__entry" href="/wordpress-gutenberg-block-editor-is-evitable/#a-mature-and-unified-full-site-editing-experience">A Mature and Unified Full Site Editing Experience</a></li><li><a class="wp-block-table-of-contents__entry" href="/wordpress-gutenberg-block-editor-is-evitable/#gutenberg-core-features-and-instant-updates">Gutenberg Core Features and Instant Updates</a></li><li><a class="wp-block-table-of-contents__entry" href="/wordpress-gutenberg-block-editor-is-evitable/#block-patterns-and-synced-patterns-blocks-for-enhanced-efficiency">Block Patterns and Synced Patterns Blocks for Enhanced Efficiency</a></li><li><a class="wp-block-table-of-contents__entry" href="/wordpress-gutenberg-block-editor-is-evitable/#developer-friendly-environment">Developer-Friendly Environment</a></li><li><a class="wp-block-table-of-contents__entry" href="/wordpress-gutenberg-block-editor-is-evitable/#flexibility-and-cost-effectiveness">Flexibility and Cost-Effectiveness</a></li></ol></nav>
 
 
 
@@ -188,7 +188,7 @@
 
 <p>Real-time collaboration will allow them to work simultaneously on the same page or post, with changes being instantly visible to all users involved. This feature is expected to foster seamless teamwork, making content creation and website management a far more efficient and enjoyable experience for WordPress users worldwide.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/">Gutenberg is Inevitable</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/wordpress-gutenberg-block-editor-is-evitable/">Gutenberg is Inevitable</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -196,7 +196,7 @@
 			</item>
 		<item>
 		<title>The Power of Cohesive Branding Design</title>
-		<link>https://petrin.dev/the-power-of-cohesive-branding-design/</link>
+		<link>/the-power-of-cohesive-branding-design/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 21:58:42 +0000</pubDate>
@@ -204,10 +204,10 @@
 		<category><![CDATA[brand design]]></category>
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[design systems]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=706</guid>
+		<guid isPermaLink="false">/?p=706</guid>
 
 					<description><![CDATA[<p>In the competitive world of business, establishing a strong and recognizable brand identity is paramount to success. One of the key elements that contribute to a powerful brand design is a well-crafted brand style guide. A brand style guide serves as the foundation for all visual and design aspects of a company&#8217;s branding, providing guidelines [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/the-power-of-cohesive-branding-design/">The Power of Cohesive Branding Design</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/the-power-of-cohesive-branding-design/">The Power of Cohesive Branding Design</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-container-3 wp-block-group-is-layout-constrained">
@@ -279,7 +279,7 @@
 
 <p>In conclusion, a well-crafted brand style guide is a powerful tool that shapes a brand&#8217;s visual identity, fostering recognition and consistency across all marketing touchpoints. By defining and adhering to the guidelines outlined in the brand style guide, businesses can create a lasting impression on their target audience and establish a strong brand identity that sets them apart from competitors. As branding design continues to evolve, it is crucial for businesses to invest in creating a comprehensive brand style guide that resonates with their audience and encapsulates the essence of their brand. Embrace the power of branding design and leverage the potential of a brand style guide to elevate your brand to new heights in the dynamic world of business.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/the-power-of-cohesive-branding-design/">The Power of Cohesive Branding Design</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/the-power-of-cohesive-branding-design/">The Power of Cohesive Branding Design</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -287,7 +287,7 @@
 			</item>
 		<item>
 		<title>Core Web Vitals are Ever-Vital</title>
-		<link>https://petrin.dev/core-web-vitals-enhancing-web-experience-and-optimization/</link>
+		<link>/core-web-vitals-enhancing-web-experience-and-optimization/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 21:58:42 +0000</pubDate>
@@ -297,10 +297,10 @@
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[wordpress]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=685</guid>
+		<guid isPermaLink="false">/?p=685</guid>
 
 					<description><![CDATA[<p>Introduced by Google in May 2020, Core Web Vitals have become essential user-centric metrics for improving web experience. These three key aspects, Largest Contentful Paint (LCP), First Contentful Paint (FCP), and Cumulative Layout Shift (CLS), play a significant role in determining a website&#8217;s performance and user satisfaction[1]. Largest Contentful Paint (LCP) measures how quickly the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/core-web-vitals-enhancing-web-experience-and-optimization/">Core Web Vitals are Ever-Vital</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/core-web-vitals-enhancing-web-experience-and-optimization/">Core Web Vitals are Ever-Vital</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
@@ -334,7 +334,7 @@
 
 <p>In conclusion, Core Web Vitals have become essential for website owners to provide an excellent user experience and improve their search rankings. By optimizing loading speed, interactivity, and visual stability, website owners can significantly enhance their website&#8217;s overall performance and user satisfaction. Tools like NitroPack offer a comprehensive and automated solution for Core Web Vitals optimization, combining various techniques to achieve lightning-fast web performance[<a href="https://nitropack.io/blog/post/core-web-vitals" target="_blank" rel="noopener">3</a>]. As web technologies continue to evolve, staying updated on the latest optimization strategies and best practices will be crucial for maintaining a competitive edge in the digital landscape.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/core-web-vitals-enhancing-web-experience-and-optimization/">Core Web Vitals are Ever-Vital</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/core-web-vitals-enhancing-web-experience-and-optimization/">Core Web Vitals are Ever-Vital</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -342,7 +342,7 @@
 			</item>
 		<item>
 		<title>Content Marketing Primer</title>
-		<link>https://petrin.dev/content-marketing-primer/</link>
+		<link>/content-marketing-primer/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 21:58:41 +0000</pubDate>
@@ -352,10 +352,10 @@
 		<category><![CDATA[content writing]]></category>
 		<category><![CDATA[keyword strategy]]></category>
 		<category><![CDATA[seo]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=719</guid>
+		<guid isPermaLink="false">/?p=719</guid>
 
 					<description><![CDATA[<p>Content marketing plays a pivotal role in driving organic SEO success, and a well-crafted long-term strategy is the foundation of it all. Let&#8217;s explore why a long-term content strategy is essential for organic SEO, how starting small can lead to significant results, and the various ways to repurpose written content into compelling video content, infographics, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/content-marketing-primer/">Content Marketing Primer</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/content-marketing-primer/">Content Marketing Primer</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
@@ -409,7 +409,7 @@
 
 <p>Content marketing is a powerful tool for driving organic SEO growth, and a long-term strategy is essential to success. Embrace the journey of starting small, and consistently create high-quality content that resonates with your audience. Repurpose your written gems into multimedia treasures to expand your reach, engage your audience, and make a lasting impact. If you find the process overwhelming, consider partnering with a creative agency to simplify your content strategy journey and achieve remarkable results in the ever-evolving world of content marketing. With dedication, creativity, and strategic planning, your content marketing efforts will thrive and lead your business to new heights of success.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/content-marketing-primer/">Content Marketing Primer</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/content-marketing-primer/">Content Marketing Primer</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -417,7 +417,7 @@
 			</item>
 		<item>
 		<title>Is Print Collateral Impactful?</title>
-		<link>https://petrin.dev/print-collateral-boost-engage-your-audience/</link>
+		<link>/print-collateral-boost-engage-your-audience/</link>
 		
 		<dc:creator><![CDATA[rob]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 21:58:41 +0000</pubDate>
@@ -426,10 +426,10 @@
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[design systems]]></category>
 		<category><![CDATA[print collateral]]></category>
-		<guid isPermaLink="false">https://petrin.dev/?p=711</guid>
+		<guid isPermaLink="false">/?p=711</guid>
 
 					<description><![CDATA[<p>In the age of digital marketing, it&#8217;s easy to overlook the impact of traditional advertising methods. However, print collateral remains a powerful tool in a well-rounded marketing strategy. From brochures and flyers to business cards and folders, print materials provide a tangible and lasting impression on potential customers. In this comprehensive blog post, we will [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://petrin.dev/print-collateral-boost-engage-your-audience/">Is Print Collateral Impactful?</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/print-collateral-boost-engage-your-audience/">Is Print Collateral Impactful?</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
@@ -513,7 +513,7 @@
 
 <p>Embracing print collateral as part of your marketing campaigns can yield impressive results in strengthening brand identity, fostering customer relationships, and driving conversions. By combining the power of traditional print with modern digital marketing strategies, businesses can create a comprehensive and impactful approach to engaging their target audience. So, whether you&#8217;re attending a trade show, hosting a local event, or reaching out to potential clients through direct mail, print collateral serves as an invaluable tool in leaving a lasting impression that sets your brand apart from the competition.</p>
 </div>
-<p>The post <a rel="nofollow" href="https://petrin.dev/print-collateral-boost-engage-your-audience/">Is Print Collateral Impactful?</a> appeared first on <a rel="nofollow" href="https://petrin.dev/">Petrin Development Services</a>.</p>
+<p>The post <a rel="nofollow" href="/print-collateral-boost-engage-your-audience/">Is Print Collateral Impactful?</a> appeared first on <a rel="nofollow" href="/">Petrin Development Services</a>.</p>
 ]]></content:encoded>
 					
 		

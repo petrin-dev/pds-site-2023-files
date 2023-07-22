@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Petrin Development Services	</title>
-	<atom:link href="https://petrin.dev/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://petrin.dev/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Brilliantly Simple Marketing for your Brand</description>
 	<lastBuildDate>Sat, 22 Jul 2023 23:38:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

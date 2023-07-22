@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://petrin.dev/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://petrin.dev/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2023-07-22T23:32:29+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://petrin.dev/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2023-07-22T23:38:10+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
