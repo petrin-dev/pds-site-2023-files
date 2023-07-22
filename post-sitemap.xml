@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://petrin.dev/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/wordpress-gutenberg-block-editor-is-evitable/</loc>
+		<loc>https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/</loc>
 		<lastmod>2023-07-22T23:32:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/the-value-of-web-hosting/</loc>
+		<loc>https://petrin.dev/the-value-of-web-hosting/</loc>
 		<lastmod>2023-07-22T23:15:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/content-marketing-primer/</loc>
+		<loc>https://petrin.dev/content-marketing-primer/</loc>
 		<lastmod>2023-07-22T23:09:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/print-collateral-boost-engage-your-audience/</loc>
+		<loc>https://petrin.dev/print-collateral-boost-engage-your-audience/</loc>
 		<lastmod>2023-07-22T23:09:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/the-power-of-cohesive-branding-design/</loc>
+		<loc>https://petrin.dev/the-power-of-cohesive-branding-design/</loc>
 		<lastmod>2023-07-22T23:09:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/core-web-vitals-enhancing-web-experience-and-optimization/</loc>
+		<loc>https://petrin.dev/core-web-vitals-enhancing-web-experience-and-optimization/</loc>
 		<lastmod>2023-07-22T23:08:49+00:00</lastmod>
 	</url>
 </urlset>
