@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* THEME UTILS */
+html {
+  scroll-behavior: smooth;
+}
+
 .prideful .icon, .prideful .icon-8, .prideful .icon-7, .prideful .icon-6, .prideful .icon-5, .prideful .icon-4, .prideful .icon-3, .prideful .icon-2, .prideful .icon-1 {
   padding: 0.25rem;
   border-radius: 0.25rem;
@@ -31,6 +35,10 @@
 
 p, h1, h2, h3, h4, h5, h6, img {
   user-select: none;
+}
+
+.skills-and-services-item {
+  max-height: unset !important;
 }
 
 @keyframes fade-in-left {
@@ -227,6 +235,15 @@ p, h1, h2, h3, h4, h5, h6, img {
 }
 
 /* LAYOUT */
+.main-nav a {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  transition: 0.3s;
+}
+.main-nav a:hover {
+  text-decoration-color: var(--wp--preset--color--custom-color-1);
+}
+
 @media (max-width: 1000px) {
   .nav-row {
     flex-direction: column;
@@ -369,66 +386,70 @@ form#start-a-project-form button[type=submit] {
   -webkit-text-fill-color: transparent;
 }
 
+li {
+  margin-bottom: 1.5rem;
+}
+
 .is-style-rounded {
   border-radius: 1rem;
 }
 
 /* SECTIONS and PAGES */
-.work-we-do-item {
+.work-we-do-item, .skills-and-services-item {
   cursor: pointer;
   transition: height 0.3s;
 }
-.work-we-do-item p:not(.expand-collapse) {
+.work-we-do-item p:not(.expand-collapse), .skills-and-services-item p:not(.expand-collapse) {
   font-weight: 400;
   max-height: 24px;
   transition: 0.3s;
 }
-.work-we-do-item strong {
+.work-we-do-item strong, .skills-and-services-item strong {
   font-weight: 400;
   visibility: hidden;
   opacity: 0;
   transition: visibility 0s, opacity 0.3s linear;
 }
-.work-we-do-item em {
+.work-we-do-item em, .skills-and-services-item em {
   font-style: normal;
 }
 @media (max-width: 400px) {
-  .work-we-do-item em {
+  .work-we-do-item em, .skills-and-services-item em {
     display: none;
   }
 }
 
 @media (max-width: 1863px) {
-  .work-we-do-item {
+  .work-we-do-item, .skills-and-services-item {
     margin-bottom: -31px !important;
     transition: 0.3s;
     max-height: 59px;
     overflow: hidden;
   }
-  .work-we-do-item .has-custom-color-2-background-color {
+  .work-we-do-item .has-custom-color-2-background-color, .skills-and-services-item .has-custom-color-2-background-color {
     max-height: 0;
     overflow: hidden;
   }
-  .work-we-do-item:last-of-type {
+  .work-we-do-item:last-of-type, .skills-and-services-item:last-of-type {
     margin-bottom: 0 !important;
   }
 }
-.work-we-do-item.active p:not(.expand-collapse) {
+.work-we-do-item.active p:not(.expand-collapse), .active.skills-and-services-item p:not(.expand-collapse) {
   font-weight: 500;
   max-height: 240px;
 }
-.work-we-do-item.active strong {
+.work-we-do-item.active strong, .active.skills-and-services-item strong {
   font-weight: 400;
   visibility: visible;
   opacity: 1;
 }
 @media (max-width: 1863px) {
-  .work-we-do-item.active {
+  .work-we-do-item.active, .active.skills-and-services-item {
     margin-bottom: 0 !important;
     max-height: unset;
     overflow: auto;
   }
-  .work-we-do-item.active .has-custom-color-2-background-color {
+  .work-we-do-item.active .has-custom-color-2-background-color, .active.skills-and-services-item .has-custom-color-2-background-color {
     max-height: unset;
     overflow: auto;
   }
@@ -518,6 +539,20 @@ form#start-a-project-form button[type=submit] {
 
 .blog-single p, .blog-single h1, .blog-single h2, .blog-single h3, .blog-single h4, .blog-single h5, .blog-single h6, .blog-single img, .blog-single ul, .blog-single ol, .document-text p, .document-text h1, .document-text h2, .document-text h3, .document-text h4, .document-text h5, .document-text h6, .document-text img, .document-text ul, .document-text ol {
   margin-bottom: 1rem;
+}
+
+.blog-loop a {
+  text-decoration-color: transparent;
+  transition: 0.3s;
+}
+.blog-loop a:hover {
+  text-decoration-color: currentColor;
+}
+.blog-loop .blog-post-item:hover {
+  cursor: pointer;
+}
+.blog-loop .blog-post-item:hover a {
+  text-decoration-color: currentColor;
 }
 
 /* STARTER BOILERPLATE, BELOW CAN BE REMOVED */

@@ -139,4 +139,14 @@ if (document.querySelector('.work-weve-done-items')) {
         })
     })
 }
+
+if (document.querySelector('.blog-post-item')){
+    let blogItems = document.querySelectorAll('.blog-post-item')
+    blogItems.forEach(function(each){
+        let link = each.querySelector('a')
+        each.addEventListener('click',function(click){
+            window.location.href = link.href
+        })
+    })
+}
 },{}]},{},[1]);
