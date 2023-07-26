@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://petrin.dev/</loc>
-		<lastmod>2023-07-22T22:42:45+00:00</lastmod>
+		<lastmod>2023-07-26T00:28:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-hero-banner-e1690329417953.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/content.svg</image:loc>
 		</image:image>
@@ -51,7 +54,25 @@
 	</url>
 	<url>
 		<loc>https://petrin.dev/blog/</loc>
-		<lastmod>2023-07-22T23:38:10+00:00</lastmod>
+		<lastmod>2023-07-26T00:25:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-link-building.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-localized-seo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-artificial-intelligence.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-elementor-sub-optimal.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-seo-vs-sem.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-printing-press.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-web-hosting.png</image:loc>
 		</image:image>
@@ -69,6 +90,59 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-print-collateral.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://petrin.dev/conversion-rate-optimization-services/</loc>
+		<lastmod>2023-07-26T00:23:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-services-banner.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/phone.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://petrin.dev/marketing-agency-in-boston/</loc>
+		<lastmod>2023-07-24T21:09:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/phone.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://petrin.dev/seo-in-boston/</loc>
+		<lastmod>2023-07-24T21:07:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/phone.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://petrin.dev/creative-agency-in-boston/</loc>
+		<lastmod>2023-07-24T21:07:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/phone.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://petrin.dev/web-design-in-boston/</loc>
+		<lastmod>2023-07-24T21:07:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/phone.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>

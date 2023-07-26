@@ -11,11 +11,11 @@
 	<atom:link href="https://petrin.dev/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://petrin.dev/</link>
 	<description>Brilliantly Simple Marketing for your Brand</description>
-	<lastBuildDate>Sat, 22 Jul 2023 23:38:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 00:28:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3-RC1</generator>
+	<generator>https://wordpress.org/?v=6.3-RC2</generator>
 </channel>
 </rss>

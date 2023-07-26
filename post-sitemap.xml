@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://petrin.dev/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://petrin.dev/15-reasons-to-link-build/</loc>
+		<lastmod>2023-07-25T01:57:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://petrin.dev/wordpress-gutenberg-block-editor-is-evitable/</loc>
-		<lastmod>2023-07-22T23:32:29+00:00</lastmod>
+		<lastmod>2023-07-25T01:53:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://petrin.dev/the-value-of-web-hosting/</loc>
-		<lastmod>2023-07-22T23:15:41+00:00</lastmod>
+		<lastmod>2023-07-25T01:52:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/localized-seo-really-hits-home/</loc>
+		<lastmod>2023-07-25T00:27:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/seo-vs-sem-13-key-differences/</loc>
+		<lastmod>2023-07-24T23:45:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/elementor-is-sub-optimal/</loc>
+		<lastmod>2023-07-24T21:56:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/artificial-intelligences-potential/</loc>
+		<lastmod>2023-07-24T16:41:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/the-power-of-cohesive-branding-design/</loc>
+		<lastmod>2023-07-24T03:08:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://petrin.dev/johannes-gutenbergs-original-publishing-revolution/</loc>
+		<lastmod>2023-07-23T22:15:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://petrin.dev/content-marketing-primer/</loc>
@@ -15,10 +43,6 @@
 	<url>
 		<loc>https://petrin.dev/print-collateral-boost-engage-your-audience/</loc>
 		<lastmod>2023-07-22T23:09:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://petrin.dev/the-power-of-cohesive-branding-design/</loc>
-		<lastmod>2023-07-22T23:09:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://petrin.dev/core-web-vitals-enhancing-web-experience-and-optimization/</loc>
