@@ -108,6 +108,9 @@
 		<loc>https://petrin.dev/blog/</loc>
 		<lastmod>2023-07-26T00:25:21+00:00</lastmod>
 		<image:image>
+			<image:loc>https://petrin.dev/wp-content/uploads/2023/08/pds-wordpress-custom-theme.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-link-building.png</image:loc>
 		</image:image>
 		<image:image>
@@ -139,9 +142,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-content-strategy-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://petrin.dev/wp-content/uploads/2023/07/pds-print-collateral.png</image:loc>
 		</image:image>
 	</url>
 	<url>
